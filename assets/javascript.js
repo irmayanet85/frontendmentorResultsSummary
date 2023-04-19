@@ -1,7 +1,7 @@
 /*jshint esversion: 6 */
 
 const xhttp = new XMLHttpRequest();
-xhttp.open("GET", "./frontendmentorResultsSummary/assets/data.json", true);
+xhttp.open("GET", "./assets/data.json", true);
 
 
 function average(data){
