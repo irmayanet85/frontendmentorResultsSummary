@@ -207,7 +207,7 @@
         }
         .card-aside {
             font-size: 22px;
-            height: 75vh;
+            height: 56vh;
         }
         .card {
             margin-top: 0px;
@@ -215,7 +215,7 @@
         }
         .card-header {
             border-radius: 0px 0px 22px 22px;    
-             height: 43.6vh;
+             height: 46vh;
         }
          .body-header p {
             margin: 11px 46px 24px 46px;
