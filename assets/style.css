@@ -196,9 +196,10 @@
         background: linear-gradient(180deg,  var(--GLightSlateBlue)  0%,  var(--GLightRoyalBlue)   100%);
         cursor: pointer;
     }
-    .title-aside h4{
+    .title-aside h1{
         color: var(--NDarkGrayBlue);
-
+        font-size: 0.9em;
+          
     }
     @media (max-width: 500px){
         main {
